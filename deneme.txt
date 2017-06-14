@@ -1,0 +1,6 @@
+admin 
+yonetim 
+deneme 
+test 
+kitap 
+defter
