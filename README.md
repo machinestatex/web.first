@@ -1,4 +1,4 @@
-# web fuzzer tool
+## web fuzzer tool
 
 
 
@@ -9,9 +9,14 @@ example use : ./fuzzertool.py php.testsparker.com deneme.txt
 
 
 
-*HTTP STATUS CODES*
+# *HTTP STATUS CODES*
+
 1xx Informational (bilgi)
+
 2xx Success (başarı)
+
 3xx Redirection (yönlendirme)
+
 4xx Client error (client hatası)
+
 5xx Server Error (server hatası)
