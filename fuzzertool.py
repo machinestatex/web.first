@@ -19,7 +19,7 @@ for i in dlist:
 	resp = conn.getresponse()
 	print resp.getheader("Server")
 	print resp.getheader("Date")
-	print resp.getheader("Cookie")
+	print resp.getheader("Set-Cookie")
 	respcode=resp.status
         respcoders=resp.reason
         print resp.status, resp.reason
